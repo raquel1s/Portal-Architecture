@@ -434,7 +434,7 @@ nav {
     margin-top: 0.4rem;
 }
 
-#h4-desktop{
+#h4-desktop {
     display: none;
 }
 
@@ -1312,11 +1312,11 @@ footer {
         font-size: 1.5rem;
     }
 
-    #h4-mobile{
+    #h4-mobile {
         display: none;
     }
 
-    #h4-desktop{
+    #h4-desktop {
         display: block;
     }
 
@@ -1767,16 +1767,19 @@ footer {
     nav li {
         font-size: 0.9rem;
     }
+
     nav ul {
         gap: 1rem;
     }
+
     .explore {
         gap: 1rem;
     }
+
     .explore p {
         font-size: 0.9rem;
     }
-    
+
     .build img {
         height: 462px;
     }
@@ -1828,7 +1831,7 @@ footer {
         height: 22px;
         width: 22px;
     }
-    
+
     .latest-work p {
         padding: 0 1.3rem;
     }
@@ -1849,7 +1852,7 @@ footer {
     .card h3 {
         font-size: 1rem;
     }
-    
+
     .realize-your-build h2 {
         font-size: 2.5rem;
     }
@@ -1862,7 +1865,7 @@ footer {
         padding: 35rem 8.5rem 1.5rem;
         margin-top: 45rem;
     }
-    
+
     .contacts-desktop {
         gap: 4rem;
     }
