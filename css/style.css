@@ -931,6 +931,7 @@ footer {
         font-size: 1rem;
         border-left: 1px solid var(--gray-details);
         padding-left: 2rem;
+        
     }
 
     .explore a {
