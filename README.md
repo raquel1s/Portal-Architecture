@@ -1,6 +1,7 @@
 # Portal Architecture
 
 Este projeto foi desenvolvido nas aulas de Programação Front-End, contribuindo como avaliação para a Unidade Curricular. O Portal Architecture foi um design selecionado pelo professor, com o objetivo de recriar a proposta do Figma utilizando HTML e CSS.
+https://portal-architecture.vercel.app/
 
 ## Como executar o site?
 
